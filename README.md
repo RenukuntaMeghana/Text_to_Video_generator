@@ -4,8 +4,7 @@ Unleash your notes' creativity! This project transforms text files into videos, 
 ## Video Demo
 Check out the demonstration of this project in action!
 **Link entered:** https://pib.gov.in/PressReleasePage.aspx?PRID=1983683
-
-                 _Measures for curbing environmental pollution_
+Measures for curbing environmental pollution
                  
 **Video generated:**
 
